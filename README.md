@@ -27,4 +27,5 @@ I'm a Roblox developer focused on Luau scripting and gameplay systems.
 ## Contact
 
 Discord: neforlmaling
+
 GitHub: https://github.com/Hrenfox
