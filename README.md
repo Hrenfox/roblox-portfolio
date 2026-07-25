@@ -1,6 +1,6 @@
 # Roblox Portfolio
 
-Hi, I'm Oleg.
+Hi, I'm Artem.
 
 I'm a Roblox developer focused on Luau scripting and gameplay systems.
 
