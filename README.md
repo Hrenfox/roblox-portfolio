@@ -1,28 +1,30 @@
 # Roblox Portfolio
 
-Hi! I'm Artem.
+Hi, I'm Oleg.
 
-I'm currently learning Roblox development and building reusable gameplay systems with Luau.
+I'm a Roblox developer focused on Luau scripting and gameplay systems.
 
-## Current Skills
-
+## Skills
 - Roblox Studio
 - Luau
-- UI
+- UI Systems
 - RemoteEvents
-- DataStore (Learning)
+- DataStore
+- Game Systems
 
-## Portfolio Projects
+## Projects
 
-- ⏳ Leaderstats System
-- ⏳ Shop System
-- ⏳ Inventory System
-- ⏳ Race System
-- ⏳ Daily Rewards
-- ⏳ Teleport System
-- ⏳ NPC Dialogue
-- ⏳ Pet System
+🚧 Leaderstats System (In Progress)
 
-## Goal
+🚧 Shop System (In Progress)
 
-Build clean, optimized Roblox systems and work with Roblox developers.
+🚧 Inventory System (In Progress)
+
+🚧 Race System (In Progress)
+
+🚧 Daily Rewards (In Progress)
+
+## Contact
+
+Discord: neforlmaling
+GitHub: https://github.com/Hrenfox
